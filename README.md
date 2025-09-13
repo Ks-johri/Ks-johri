@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-[![](https://visitcount.itsvg.in/api?id=Vibhor-choudhary&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
